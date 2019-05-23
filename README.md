@@ -4,7 +4,7 @@ Programs for networks that I wrote in order to learn the syntax and how to use P
 
 ## 1. MNIST Classifier
 
-The first program that I built was the MNIST classifier based on the very helpful tutorial given [here](https://github.com/yunjey/pytorch-tutorial) and [here](https://github.com/pytorch/examples/). 
+The first program that I built was the MNIST classifier based on the very helpful tutorials given [here](https://github.com/yunjey/pytorch-tutorial) and [here](https://github.com/pytorch/examples/). 
 It is a simple network with two convolutional layers and two fully connected layers and achieved an accuracy of 99.04%
 
 ## 2. Fashion-MNIST Classifier
